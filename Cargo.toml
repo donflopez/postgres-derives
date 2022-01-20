@@ -3,7 +3,7 @@ name = "postgres-derives"
 version = "0.1.0"
 edition = "2021"
 description = "Parsing rows from postgres to structs and multiple utilities for https://github.com/sfackler/rust-postgres"
-licencse = "MIT"
+license = "MIT"
 authors = ["Francisco López <donflopez@gmail.com>"]
 
 [lib]
